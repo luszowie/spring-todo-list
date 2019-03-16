@@ -1,4 +1,4 @@
-package pl.edu.wszib.todolist.springtodolist;
+/*package pl.edu.wszib.todolist.springtodolist;
 
 import pl.edu.wszib.todolist.springtodolist.model.Status;
 import pl.edu.wszib.todolist.springtodolist.model.Todo;
@@ -63,4 +63,4 @@ public class ToDoDB {
         return t;
     }
 
-}
+}*/
